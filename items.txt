@@ -1,0 +1,20 @@
+Book,1,The Great Gatsby,1925,F. Scott Fitzgerald,Novel
+Book,2,To Kill a Mockingbird,1960,Harper Lee,Fiction
+Book,3,1984,1949,George Orwell,Dystopian
+Book,4,The Catcher in the Rye,1951,J.D. Salinger,Novel
+Book,5,The Hobbit,1937,J.R.R. Tolkien,Fantasy
+Book,6,Fahrenheit 451,1953,Ray Bradbury,Dystopian
+Book,7,Pride and Prejudice,1813,Jane Austen,Romance
+Book,8,The Diary of a Young Girl,1947,Anne Frank,Biography
+Book,9,Moby-Dick,1851,Herman Melville,Adventure
+Book,10,War and Peace,1869,Leo Tolstoy,Historical
+Magazine,11,National Geographic,2022,1,National Geographic Society
+Magazine,12,Time,2022,12,Time Inc.
+Magazine,13,Scientific American,2022,7,Springer Nature
+Magazine,14,The Economist,2022,24,The Economist Group
+Magazine,15,Forbes,2022,18,Forbes Media
+Magazine,16,Vogue,2022,3,Condé Nast
+Magazine,17,People,2022,15,Meredith Corporation
+Magazine,18,New Scientist,2022,30,Reed Business Information
+Magazine,19,Reader's Digest,2022,9,Trusted Media Brands
+Magazine,20,Wired,2022,5,Condé Nast
